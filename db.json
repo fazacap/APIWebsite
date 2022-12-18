@@ -5,7 +5,9 @@
       "title": "hello"
     }
   ],
-  "message": {
+  "message": [
+  {
     "name": "typicode"
   }
+    ]
 }
