@@ -1,33 +1,11 @@
 {
-  "users": [
+  "posts": [
     {
       "id": 1,
-      "email": "saya",
-      "password":"111"
+      "title": "hello"
     }
   ],
- 
-  "message": [
-            {
-              id: "11111",
-              date: "15 nov",
-              email: "ts@g",
-              message: "klklklj k lkkjlkjlk lk lklkjllkkl lklnlknlnknkl",
-              selected: false,
-            },
-            {
-              id: "22222",
-              date: "25 nov",
-              email: "ssss@g",
-              message: "klklklj k lkkjlkjlk lk lklkjllkkl lklnlknlnknkl",
-              selected: false,
-            },
-            {
-              id: "33222",
-              date: "25 nov",
-              email: "ssss@g",
-              message: "klklklj k lkkjlkjlk lk lklkjllkkl lklnlknlnknkl",
-              selected: false,
-            }
-          ]
+  "message": {
+    "name": "typicode"
+  }
 }
