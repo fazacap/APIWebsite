@@ -1,31 +1,18 @@
 {
-  "users": [
-    {
-      "email": "a",
-      "password": "a"
+  "user": [
+     {
+      "username": "admin",
+      "email": "admin@gmail.com",
+      "password": "123456",
+      "account": "pro",
+      "video": [
+        {
+          "title": "Fizzdroid Minecraft Story Mode Season 2 android gameplay walkthrough",
+        },
+        {
+          "title": "fizzdroid lego ninjago shadow of ronin android gameplay walkthrough",
+        }
+       ]
     }
-  ],
-  "message":[ 
-    {
-      "id": "11111",
-      "date": "15 nov",
-      "email": "ts@g",
-      "message": "klklklj k lkkjlkjlk lk lklkjllkkl lklnlknlnknkl",
-      "selected": false
-    },
-    {
-      "id": "22222",
-      "date": "35 nov",
-      "email": "opopopg@ff",
-      "message": "klklklj k lkkjlkjlk lk lklkjllkkl lklnlknlnknkl",
-      "selected": false
-    },
-{
-      "id": "33333",
-      "date": "25 nov",
-      "email": "klklklkl@g",
-      "message": "klklklj k lkkjlkjlk lk lklkjllkkl lklnlknlnknkl",
-      "selected": false
-    }
-]
+  ]
 }
