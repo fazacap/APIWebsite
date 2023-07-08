@@ -1,18 +1,17 @@
 {
   "users": [
-     {
+    {
       "username": "admin",
       "email": "admin@gmail.com",
       "password": "123456",
-      "level": "admin",
-   
-      }
+      "level": "admin"
+    }
   ],
-      "message":[
-         {
-        "email":"faz",
-         "message":"dfgdfgd gd fg dfgdfg dfgd ",
-           "date":"05/07/2022"
-         }
-       ]
+  "messages": [
+    {
+      "email": "faz",
+      "message": "dfgdfgd gd fg dfgdfg dfgd",
+      "date": "05/07/2022"
+    }
+  ]
 }
