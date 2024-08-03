@@ -1,17 +1,25 @@
 {
   "users": [
     {
-      "username": "admin",
-      "email": "admin@gmail.com",
-      "password": "123456",
-      "level": "admin"
+      "nip": "1234567890",
+      "nama": "alfiz zikra",
+      "password": "123"
     }
   ],
-  "messages": [
+  "produksi": [
     {
-      "email": "faz",
-      "message": "dfgdfgd gd fg dfgdfg dfgd",
-      "date": "05/07/2022"
+      "acara": "meurenou beut",
+      "bidang": "program",
+      "tanggal": "05/07/2022",
+      "pukul": "15.00 - 16.00"
+      "icon": "cell_tower"
+    },
+     {
+      "acara": "meurenou beut",
+      "bidang": "program",
+      "tanggal": "05/07/2022",
+      "pukul": "13.00 - 14.00",
+      "icon": "cell_tower"
     }
   ]
 }
