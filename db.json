@@ -13,7 +13,13 @@
       "bidang": "program",
       "tanggal": "3/8/2024",
       "pukul": "10.00 - 11.00",
-      "icon": "cell_tower"
+      "icon": "cell_tower",
+       "petugas":[
+         {
+           "td":"anton",
+           "audio":"helmi"
+         }
+       ]
     },
     {
       "id":"12211",
