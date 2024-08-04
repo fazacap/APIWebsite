@@ -7,76 +7,103 @@
     }
   ],
   "produksi": [
-      {
-      "id":"14211",
+    {
+      "id": "14211",
       "acara": "NUANSA IMAN",
       "bidang": "PROGRAM",
       "tanggal": "4",
       "bulan": "AGUSTUS",
       "tahun": "2024",
-      "mulai": "10.00",
-      "selesai": "11.00",
+      "jam_mulai": "10.00",
+      "jam_selesai": "11.00",
       "kondisi": "live",
-       "petugas":[
-         {
-           "nomor":1,
-           "nip":"111111111",
-           "nama":"Mahyar",
-           "profesi":"Penanggung Jawab Program" 
-         },
-          {
-           "nomor":2,
-           "nip":"111111111",
-           "nama":"Yusril",
-           "profesi":"Penanggung Jawab Teknik" 
-         },
-         {
-           "nomor":3,
-           "nip":"111111111",
-           "nama":"Sumiatun",
-           "profesi":"Produser" 
-         }
-       ]
+      "petugas": [
+        {
+          "nomor": 1,
+          "nip": "111111111",
+          "nama": "Mahyar",
+          "profesi": "Penanggung Jawab Program"
+        },
+        {
+          "nomor": 2,
+          "nip": "111111111",
+          "nama": "Yusril",
+          "profesi": "Penanggung Jawab Teknik"
+        },
+        {
+          "nomor": 3,
+          "nip": "111111111",
+          "nama": "Sumiatun",
+          "profesi": "Produser"
+        }
+      ]
     },
-     {
-       "id":"11111",
+    {
+      "id": "11111",
       "acara": "Sawue sidara",
       "bidang": "program",
       "tanggal": "3/8/2024",
-      "pukul_mulai": "10.00",
-      "pukul_selesai": "11.00",
-      "icon": "cell_tower",
-       "petugas":[
-         {
-           "td":"anton",
-           "audio":"helmi"
-         }
-       ]
+      "jam_mulai": "10.00",
+      "jam_selesai": "11.00",
+      "kondisi": "record",
+      "petugas": [
+        {
+          "td": "anton",
+          "audio": "helmi"
+        }
+      ]
     },
     {
-      "id":"12211",
+      "id": "12211",
       "acara": "MEURUNOU BEUT",
       "bidang": "PROGRAM",
       "tanggal": "4",
       "bulan": "AGUSTUS",
       "tahun": "2024",
-      "pukul_mulai": "15.00",
-      "pukul_selesai": "16.00",
-      "icon": "cell_tower",
-       "petugas":[
-         {
-           "td":"anton",
-           "audio":"helmi" 
-         }
-       ]
+      "jam_mulai": "10.00",
+      "jam_selesai": "11.00",
+      "kondisi": "record",
+      "petugas": [
+        {
+          "td": "anton",
+          "audio": "helmi"
+        }
+      ]
     },
     {
-      "id":"13311",
+      "id": "13311",
       "acara": "meurenou beut",
       "bidang": "program",
       "tanggal": "5/8/2024",
       "pukul": "13.00 - 14.00",
       "icon": "cell_tower"
+    }
+  ],
+  "dinas": [
+    {
+      "tanggal_mulai": "3",
+      "tanggal_akhir": "14",
+      "tahun": "2024",
+      "petugas": [
+        {
+          "nomor": 1,
+          "nip": "111111111",
+          "nama": "Mahyar",
+          "profesi": "TD"
+        },
+        {
+          "nomor": 2,
+          "nip": "111111111",
+          "nama": "Yusril",
+          "profesi": "Penanggung Jawab Teknik"
+        },
+        {
+          "nomor": 3,
+          "nip": "111111111",
+          "nama": "Sumiatun",
+          "profesi": "Produser"
+        }
+      ]
     }
   ]
 }
