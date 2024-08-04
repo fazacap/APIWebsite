@@ -14,8 +14,8 @@
       "tanggal": "4",
       "bulan": "AGUSTUS",
       "tahun": "2024",
-      "pukul_mulai": "10.00",
-      "pukul_selesai": "11.00",
+      "mulai": "10.00",
+      "selesai": "11.00",
       "icon": "cell_tower",
        "petugas":[
          {
