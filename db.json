@@ -7,6 +7,23 @@
     }
   ],
   "produksi": [
+      {
+      "id":"14211",
+      "acara": "NUANSA IMAN",
+      "bidang": "PROGRAM",
+      "tanggal": "4",
+      "bulan": "AGUSTUS",
+      "tahun": "2024",
+      "pukul_mulai": "10.00",
+      "pukul_selesai": "11.00",
+      "icon": "cell_tower",
+       "petugas":[
+         {
+           "td":"anton",
+           "audio":"helmi" 
+         }
+       ]
+    },
      {
        "id":"11111",
       "acara": "Sawue sidara",
@@ -26,7 +43,9 @@
       "id":"12211",
       "acara": "MEURUNOU BEUT",
       "bidang": "PROGRAM",
-      "tanggal": "4/8/2024",
+      "tanggal": "4",
+      "bulan": "AGUSTUS",
+      "tahun": "2024",
       "pukul_mulai": "15.00",
       "pukul_selesai": "16.00",
       "icon": "cell_tower",
