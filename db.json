@@ -1,12 +1,12 @@
 {
-  "users": [
+  "akun_pengguna": [
     {
       "nip": "1234567890",
       "nama": "alfiz zikra",
       "password": "123"
     }
   ],
-  "produksi": [
+  "jadwal_produksi": [
     {
       "id": "14211",
       "acara": "NUANSA IMAN",
@@ -79,12 +79,14 @@
       "icon": "cell_tower"
     }
   ],
-  "dinas": [
+  "jadwal_dinas": [
     {
       "tanggal_mulai": "3",
       "tanggal_akhir": "14",
+      "bulan": "AGUSTUS",
       "tahun": "2024",
-      "petugas": [
+      "petugas_produksi": [{}],
+      "petugas_continuity": [
         {
           "nomor": 1,
           "nip": "111111111",
