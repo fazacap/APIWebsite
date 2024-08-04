@@ -13,7 +13,7 @@
       "bidang": "program",
       "tanggal": "3/8/2024",
       "pukul-mulai": "10.00",
-       "pukul-selesai": "11.00",
+      "pukul-selesai": "11.00",
       "icon": "cell_tower",
        "petugas":[
          {
@@ -27,8 +27,15 @@
       "acara": "meurenou beut",
       "bidang": "program",
       "tanggal": "4/8/2024",
-      "pukul": "15.00 - 16.00",
-      "icon": "cell_tower"
+      "pukul-mulai": "15.00",
+      "pukul-selesai": "16.00",
+      "icon": "cell_tower",
+       "petugas":[
+         {
+           "td":"anton",
+           "audio":"helmi"
+         }
+       ]
     },
     {
       "id":"13311",
