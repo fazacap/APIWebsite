@@ -16,7 +16,7 @@
       "tahun": "2024",
       "mulai": "10.00",
       "selesai": "11.00",
-      "icon": "cell_tower",
+      "kondisi": "live",
        "petugas":[
          {
            "nomor":1,
