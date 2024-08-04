@@ -19,8 +19,22 @@
       "icon": "cell_tower",
        "petugas":[
          {
-           "td":"anton",
-           "audio":"helmi" 
+           "nomor":1,
+           "nip":"111111111",
+           "nama":"Mahyar",
+           "profesi":"Penanggung Jawab Program" 
+         },
+          {
+           "nomor":2,
+           "nip":"111111111",
+           "nama":"Yusril",
+           "profesi":"Penanggung Jawab Teknik" 
+         },
+         {
+           "nomor":3,
+           "nip":"111111111",
+           "nama":"Sumiatun",
+           "profesi":"Produser" 
          }
        ]
     },
