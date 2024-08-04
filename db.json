@@ -85,7 +85,7 @@
       "tanggal_akhir": "14",
       "bulan": "AGUSTUS",
       "tahun": "2024",
-      "petugas_produksi": [{}],
+      "petugas_production": [{}],
       "petugas_continuity": [
         {
           "nomor": 1,
