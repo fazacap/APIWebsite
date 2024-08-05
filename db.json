@@ -11,7 +11,7 @@
       "id": "14211",
       "acara": "NUANSA IMAN",
       "bidang": "PROGRAM",
-      "tanggal": "4",
+      "tanggal": "5",
       "bulan": "AGUSTUS",
       "tahun": "2024",
       "jam_mulai": "10.00",
@@ -39,17 +39,33 @@
       ]
     },
     {
-      "id": "11111",
-      "acara": "Sawue sidara",
-      "bidang": "program",
-      "tanggal": "3/8/2024",
+      "id": "14211",
+      "acara": "NUANSA IMAN",
+      "bidang": "PROGRAM",
+      "tanggal": "4",
+      "bulan": "AGUSTUS",
+      "tahun": "2024",
       "jam_mulai": "10.00",
       "jam_selesai": "11.00",
-      "kondisi": "record",
+      "kondisi": "live",
       "petugas": [
         {
-          "td": "anton",
-          "audio": "helmi"
+          "nomor": 1,
+          "nip": "111111111",
+          "nama": "Mahyar",
+          "profesi": "Penanggung Jawab Program"
+        },
+        {
+          "nomor": 2,
+          "nip": "111111111",
+          "nama": "Yusril",
+          "profesi": "Penanggung Jawab Teknik"
+        },
+        {
+          "nomor": 3,
+          "nip": "111111111",
+          "nama": "Sumiatun",
+          "profesi": "Produser"
         }
       ]
     },
