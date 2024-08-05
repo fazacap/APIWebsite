@@ -16,7 +16,7 @@
       "tahun": "2024",
       "jam_mulai": "10.00",
       "jam_selesai": "11.00",
-      "kondisi": "live",
+      "kondisi": "LIVE",
       "petugas": [
         {
           "nomor": 1,
@@ -39,7 +39,7 @@
       ]
     },
     {
-      "id": "14211",
+      "id": "11211",
       "acara": "NUANSA IMAN",
       "bidang": "PROGRAM",
       "tanggal": "4",
@@ -47,7 +47,7 @@
       "tahun": "2024",
       "jam_mulai": "10.00",
       "jam_selesai": "11.00",
-      "kondisi": "live",
+      "kondisi": "LIVE",
       "petugas": [
         {
           "nomor": 1,
@@ -70,7 +70,7 @@
       ]
     },
     {
-      "id": "12211",
+      "id": "15211",
       "acara": "MEURUNOU BEUT",
       "bidang": "PROGRAM",
       "tanggal": "4",
@@ -78,21 +78,13 @@
       "tahun": "2024",
       "jam_mulai": "10.00",
       "jam_selesai": "11.00",
-      "kondisi": "record",
+      "kondisi": "RECORD",
       "petugas": [
         {
           "td": "anton",
           "audio": "helmi"
         }
       ]
-    },
-    {
-      "id": "13311",
-      "acara": "meurenou beut",
-      "bidang": "program",
-      "tanggal": "5/8/2024",
-      "pukul": "13.00 - 14.00",
-      "icon": "cell_tower"
     }
   ],
   "jadwal_dinas": [
