@@ -81,6 +81,9 @@
   ],
   "jadwal_dinas": [
     {
+      "nomor_surat": "56/II.55/TVRI/2024",
+      "hari_mulai": "SENIN",
+      "hari_akhir": "MINGGU",
       "tanggal_mulai": "3",
       "tanggal_akhir": "14",
       "bulan": "AGUSTUS",
@@ -108,6 +111,9 @@
       ]
     },
     {
+      "nomor_surat": "55/II.55/TVRI/2024",
+      "hari_mulai": "SENIN",
+      "hari_akhir": "MINGGU",
       "tanggal_mulai": "3",
       "tanggal_akhir": "14",
       "bulan": "AGUSTUS",
