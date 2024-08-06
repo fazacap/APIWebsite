@@ -11,7 +11,7 @@
       "id": "14211",
       "acara": "NUANSA IMAN",
       "bidang": "PROGRAM",
-      "tanggal": "5",
+      "tanggal": "6",
       "bulan": "AGUSTUS",
       "tahun": "2024",
       "jam_mulai": "10.00",
@@ -95,6 +95,60 @@
           "nip": "111111111",
           "nama": "Sumiatun",
           "profesi": "Produser"
+        },
+        {
+          "nomor": 14,
+          "nip": "111111111",
+          "nama": "Yusril",
+          "profesi": "Penanggung Jawab Teknik"
+        },
+        {
+          "nomor": 15,
+          "nip": "111111111",
+          "nama": "Mahyar",
+          "profesi": "Penanggung Jawab Program"
+        },
+        {
+          "nomor": 16,
+          "nip": "111111111",
+          "nama": "Yusril",
+          "profesi": "Penanggung Jawab Teknik"
+        },
+        {
+          "nomor": 17,
+          "nip": "111111111",
+          "nama": "Mahyar",
+          "profesi": "Penanggung Jawab Program"
+        },
+        {
+          "nomor": 18,
+          "nip": "111111111",
+          "nama": "Yusril",
+          "profesi": "Penanggung Jawab Teknik"
+        },
+        {
+          "nomor": 19,
+          "nip": "111111111",
+          "nama": "Mahyar",
+          "profesi": "Penanggung Jawab Program"
+        },
+        {
+          "nomor": 20,
+          "nip": "111111111",
+          "nama": "Yusril",
+          "profesi": "Penanggung Jawab Teknik"
+        },
+        {
+          "nomor": 21,
+          "nip": "111111111",
+          "nama": "Mahyar",
+          "profesi": "Penanggung Jawab Program"
+        },
+        {
+          "nomor": 22,
+          "nip": "111111111",
+          "nama": "Yusril",
+          "profesi": "Penanggung Jawab Teknik"
         }
       ]
     },
