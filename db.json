@@ -7,6 +7,35 @@
     }
   ],
   "jadwal_produksi": [
+     {
+      "id": "14211",
+      "acara": "NUANSA IMAN",
+      "bidang": "PROGRAM",
+      "tanggal": "8",
+      "bulan": "AGUSTUS",
+      "tahun": "2024",
+      "jam_mulai": "10.00",
+      "jam_selesai": "11.00",
+      "kondisi": "LIVE",
+      "petugas": [
+        {
+          "nomor": 1,
+          "nip": "111111111",
+          "nama": "Mahyar",
+          "profesi": "Penanggung Jawab Program"
+        },
+        {
+          "nomor": 2,
+          "nip": "111111111",
+          "nama": "Yusril",
+          "profesi": "Penanggung Jawab Teknik"
+        },
+        {
+          "nomor": 3,
+          "nip": "111111111",
+          "nama": "Mahyar",
+          "profesi": "Penanggung Jawab Program"
+        },
     {
       "id": "14211",
       "acara": "NUANSA IMAN",
